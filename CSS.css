@@ -1,0 +1,19 @@
+body
+{
+	background-image: url(../images/simplon_2.png);
+	background-repeat: no-repeat;
+	background-position: top
+}
+section
+{
+
+}
+img
+{
+	margin: left 170px;
+}
+
+p
+{
+	color: blue;
+}
